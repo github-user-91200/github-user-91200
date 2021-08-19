@@ -5,7 +5,7 @@
 - I use the number "91200" a lot
 - .net is great!
 - I don't really know what else to say...
-- Have a nice day! 🙃
+Have a nice day! 🙃
 <!--
 **github-user-91200/github-user-91200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
